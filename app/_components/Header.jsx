@@ -9,7 +9,12 @@ function Header() {
     <div className="p-5 flex justify-between items-center border shadow-sm">
       <h1 className="text-2xl text-primary">Expense Vault</h1>
       {isSignedIn ? (
-        <UserButton />
+        <>
+          <Link href={"/dashboard"}>
+            <Button variant="outline">Dashboard</Button>
+          </Link>
+          <UserButton />
+        </>
       ) : (
         <div className="flex gap-3 items-center">
           <Link href={"/dashboard"}>
