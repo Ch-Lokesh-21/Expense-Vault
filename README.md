@@ -2,10 +2,10 @@
 
 **Expense-Vault** is a comprehensive financial management platform designed to simplify budgeting and expense tracking. Built using modern technologies, the platform provides intuitive data visualization and seamless authentication to enhance the user experience.
 
-## The application is live at [LiveDemo]()
+## The application is live at [LiveDemo](https://expense-vault.vercel.app/)
 
-![image1]()
-![image2]()
+![image](https://github.com/Ch-Lokesh-21/Expense-Vault/blob/7e5aabff91732699052439b088d9df61d69de229/image.png)
+![image1](https://github.com/Ch-Lokesh-21/Expense-Vault/blob/7e5aabff91732699052439b088d9df61d69de229/image1.png)
 
 ---
 
